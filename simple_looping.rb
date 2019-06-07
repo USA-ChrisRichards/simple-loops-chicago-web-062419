@@ -5,7 +5,7 @@ def loop_iterator(number_of_times)
   counter = 0
   loop do 
     counter += 1
-    puts phtase
+    puts phrase
     if counter is >= number_of_times
       break
     end
